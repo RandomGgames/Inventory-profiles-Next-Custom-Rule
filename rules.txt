@@ -25,7 +25,7 @@
 	leather_leggings
 	leather_boots
 	turtle_helmet
-
+	
 	trident
 	netherite_sword
 	netherite_pickaxe
@@ -64,13 +64,11 @@
 	bundle
 	bow
 	crossbow
-
-
+	
 	flint_and_steel
 	fishing_rod
 	carrot_on_a_stick
 	warped_fungus_on_a_stick
-
 	
 	experience_bottle
 	lead
@@ -80,12 +78,12 @@
 	clock
 	shears
 	name_tag
-
+	
 	bucket
 	water_bucket
 	lava_bucket
 	milk_bucket
-
+	
 	enchanted_golden_apple
 	golden_apple
 	golden_carrot
@@ -116,7 +114,7 @@
 	cookie
 	dried_kelp
 	suspicious_stew
-
+	
 	netherite_block
 	ancient_debris
 	netherite_ingot
@@ -161,7 +159,7 @@
 	deepslate_coal_ore
 	quartz
 	nether_quartz_ore
-
+	
 	oak_log
 	oak_wood
 	oak_planks
@@ -225,13 +223,13 @@
 	warped_wood
 	stripped_warped_stem
 	stripped_warped_wood
-
+	
 	stone
 	stone_stairs
 	stone_slab
 	smooth_stone
 	smooth_stone_slab
-
+	
 	polished_andesite
 	polished_andesite_stairs
 	polished_andesite_slab
@@ -239,7 +237,7 @@
 	andesite_stairs
 	andesite_slab
 	andesite_wall
-
+	
 	polished_granite
 	polished_granite_stairs
 	polished_granite_slab
@@ -247,7 +245,7 @@
 	granite_stairs
 	granite_slab
 	granite_wall
-
+	
 	polished_diorite
 	polished_diorite_stairs
 	polished_diorite_slab
@@ -255,7 +253,7 @@
 	diorite_stairs
 	diorite_slab
 	diorite_wall
-
+	
 	cobblestone
 	cobblestone_slab
 	cobblestone_stairs
@@ -264,7 +262,7 @@
 	mossy_cobblestone_slab
 	mossy_cobblestone_stairs
 	mossy_cobblestone_wall
-
+	
 	stone_bricks
 	stone_brick_stairs
 	stone_brick_slab
@@ -322,7 +320,7 @@
 	smooth_sandstone
 	smooth_sandstone_slab
 	smooth_sandstone_stairs
-
+	
 	grass_block
 	dirt
 	rooted_dirt
@@ -332,7 +330,7 @@
 	sand
 	gravel
 	clay
-
+	
 	sea_lantern
 	prismarine_bricks
 	prismarine_brick_stairs
@@ -421,7 +419,7 @@
 	pink_stained_glass
 	magenta_stained_glass
 	purple_stained_glass
-
+	
 	tinted_glass
 	white_stained_glass_pane
 	light_gray_stained_glass_pane
@@ -473,7 +471,7 @@
 	pink_terracotta
 	magenta_terracotta
 	purple_terracotta
-
+	
 	white_glazed_terracotta
 	light_gray_glazed_terracotta
 	gray_glazed_terracotta
@@ -507,7 +505,7 @@
 	pink_concrete
 	magenta_concrete
 	purple_concrete
-
+	
 	white_concrete_powder
 	light_gray_concrete_powder
 	gray_concrete_powder
@@ -709,7 +707,7 @@
 	zombie_head
 	creeper_head
 	dragon_head
-
+	
 	oak_sapling
 	spruce_sapling
 	birch_sapling
@@ -784,7 +782,7 @@
 	warped_fungus
 	warped_roots
 	weeping_vines
-
+	
 	player_head
 	
 	oak_boat
@@ -824,7 +822,7 @@
 	heavy_weighted_pressure_plate
 	light_weighted_pressure_plate
 	tripwire_hook
-
+	
 	spruce_pressure_plate
 	birch_pressure_plate
 	jungle_pressure_plate
@@ -833,7 +831,7 @@
 	warped_pressure_plate
 	crimson_pressure_plate
 	polished_blackstone_pressure_plate
-
+	
 	oak_door
 	spruce_door
 	acacia_door
@@ -843,7 +841,7 @@
 	iron_door
 	jungle_door
 	warped_door
-
+	
 	oak_fence_gate
 	spruce_fence_gate
 	birch_fence_gate
@@ -852,7 +850,7 @@
 	acacia_fence_gate
 	warped_fence_gate
 	crimson_fence_gate
-
+	
 	oak_trapdoor
 	spruce_trapdoor
 	birch_trapdoor
@@ -862,7 +860,7 @@
 	warped_trapdoor
 	crimson_trapdoor
 	iron_trapdoor
-
+	
 	hopper
 	piston
 	sticky_piston
@@ -878,7 +876,7 @@
 	detector_rail
 	activator_rail
 	minecart
-
+	
 	carrot
 	baked_potato
 	potato
@@ -913,7 +911,7 @@
 	shroomlight
 	soul_sand
 	soul_soil
-
+	
 	gilded_blackstone
 	polished_blackstone_bricks
 	polished_blackstone_brick_stairs
@@ -945,7 +943,7 @@
 	stripped_crimson_hyphae
 	crimson_nylium
 	nether_wart_block
-
+	
 	warped_stem
 	warped_slab
 	stripped_warped_hyphae
@@ -998,7 +996,7 @@
 	iron_horse_armor
 	leather_horse_armor
 	saddle
-
+	
 	gunpowder
 	bone_block
 	bone
@@ -1013,7 +1011,7 @@
 	ghast_tear
 	phantom_membrane
 	shulker_shell
-
+	
 	leather
 	rabbit_hide
 	ink_sac
@@ -1021,13 +1019,13 @@
 	feather
 	egg
 	scute
-
+	
 	cod_bucket
 	salmon_bucket
 	tropical_fish_bucket
 	pufferfish_bucket
 	axolotl_bucket
-
+	
 	white_dye
 	light_gray_dye
 	gray_dye
@@ -1044,7 +1042,7 @@
 	pink_dye
 	magenta_dye
 	purple_dye
-
+	
 	music_disc_11
 	music_disc_13
 	music_disc_blocks
@@ -1076,7 +1074,7 @@
 	magenta_shulker_box
 	purple_shulker_box
 	shulker_box
-
+	
 	::custom_name
 	::enchantments_score(number_order = descending)
 	::durability (reverse = true)
