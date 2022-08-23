@@ -160,62 +160,131 @@
 	quartz
 	nether_quartz_ore
 	
-	oak_log
 	oak_wood
+	oak_log
+	stripped_oak_wood
+	stripped_oak_log
 	oak_planks
 	oak_stairs
 	oak_slab
-	stripped_oak_wood
-	stripped_oak_log
+	oak_fence
+	oak_sign
+	crafting_table
+	bookshelf
+	chest
+	oak_door
+	oak_fence_gate
+	oak_trapdoor
+	oak_boat
+	oak_button
+	oak_pressure_plate
+	
+	spruce_wood
 	spruce_log
+	stripped_spruce_wood
+	stripped_spruce_log
 	spruce_planks
 	spruce_stairs
 	spruce_slab
-	spruce_wood
-	stripped_spruce_log
-	stripped_spruce_wood
+	spruce_fence
+	spruce_sign
+	spruce_boat
+	spruce_button
+	spruce_door
+	spruce_fence_gate
+	spruce_pressure_plate
+	spruce_trapdoor
+	
+	birch_wood
 	birch_log
+	stripped_birch_wood
+	stripped_birch_log
 	birch_planks
 	birch_stairs
 	birch_slab
-	birch_wood
-	stripped_birch_log
-	stripped_birch_wood
+	birch_fence
+	birch_sign
+	birch_boat
+	birch_button
+	birch_door
+	birch_fence_gate
+	birch_pressure_plate
+	birch_trapdoor
+	
+	jungle_wood
 	jungle_log
+	stripped_jungle_wood
+	stripped_jungle_log
 	jungle_planks
 	jungle_stairs
 	jungle_slab
-	jungle_wood
-	stripped_jungle_log
-	stripped_jungle_wood
+	jungle_fence
+	jungle_sign
+	jungle_boat
+	jungle_button
+	jungle_door
+	jungle_fence_gate
+	jungle_pressure_plate
+	jungle_trapdoor
+	
+	dark_oak_wood
 	dark_oak_log
 	dark_oak_planks
+	stripped_dark_oak_wood
+	stripped_dark_oak_log
 	dark_oak_stairs
 	dark_oak_slab
-	dark_oak_wood
-	stripped_dark_oak_log
-	stripped_dark_oak_wood
+	dark_oak_fence
+	dark_oak_sign
+	dark_oak_boat
+	dark_oak_button
+	dark_oak_door
+	dark_oak_fence_gate
+	dark_oak_pressure_plate
+	dark_oak_trapdoor
+	
+	acacia_wood
 	acacia_log
+	stripped_acacia_wood
+	stripped_acacia_log
 	acacia_planks
 	acacia_stairs
 	acacia_slab
-	acacia_wood
-	stripped_acacia_log
-	stripped_acacia_wood
+	acacia_fence
+	acacia_sign
+	acacia_boat
+	acacia_button
+	acacia_door
+	acacia_fence_gate
+	acacia_pressure_plate
+	acacia_trapdoor
+	
+	mangrove_wood
 	mangrove_log
+	stripped_mangrove_wood
+	stripped_mangrove_log
 	mangrove_planks
 	mangrove_stairs
 	mangrove_slab
-	mangrove_wood
-	stripped_mangrove_log
-	stripped_mangrove_wood
+	mangrove_fence
+	mangrove_sign
+	mangrove_boat
+	
+	crimson_wood
 	crimson_stem
+	stripped_crimson_wood
+	stripped_crimson_stem
 	crimson_planks
 	crimson_stairs
 	crimson_slab
-	crimson_wood
-	stripped_crimson_stem
-	stripped_crimson_wood
+	crimson_fence
+	crimson_sign
+	crimson_button
+	crimson_door
+	crimson_fence_gate
+	crimson_pressure_plate
+	crimson_trapdoor
+	
 	warped_stem
 	warped_planks
 	warped_stairs
@@ -223,6 +292,13 @@
 	warped_wood
 	stripped_warped_stem
 	stripped_warped_wood
+	warped_fence
+	warped_sign
+	warped_button
+	warped_door
+	warped_fence_gate
+	warped_pressure_plate
+	warped_trapdoor
 	
 	stone
 	stone_stairs
@@ -255,8 +331,8 @@
 	diorite_wall
 	
 	cobblestone
-	cobblestone_slab
 	cobblestone_stairs
+	cobblestone_slab
 	cobblestone_wall
 	mossy_cobblestone
 	mossy_cobblestone_slab
@@ -528,10 +604,8 @@
 	conduit
 	dragon_egg
 	
-	chest
+	
 	ender_chest
-	crafting_table
-	bookshelf
 	anvil
 	chipped_anvil
 	damaged_anvil
@@ -555,24 +629,6 @@
 	
 	torch
 	scaffolding
-	
-	oak_sign
-	spruce_sign
-	birch_sign
-	jungle_sign
-	dark_oak_sign
-	acacia_sign
-	crimson_sign
-	warped_sign
-	
-	oak_fence
-	spruce_fence
-	birch_fence
-	jungle_fence
-	dark_oak_fence
-	acacia_fence
-	crimson_fence
-	warped_fence
 	
 	campfire
 	cobweb
@@ -785,14 +841,6 @@
 	
 	player_head
 	
-	oak_boat
-	spruce_boat
-	birch_boat
-	jungle_boat
-	dark_oak_boat
-	acacia_boat
-	mangrove_boat
-	
 	redstone_block
 	redstone
 	redstone_ore
@@ -808,57 +856,14 @@
 	
 	lever
 	stone_button
-	oak_button
-	spruce_button
-	birch_button
-	jungle_button
-	dark_oak_button
-	acacia_button
-	warped_button
-	crimson_button
 	polished_blackstone_button
-	oak_pressure_plate
 	stone_pressure_plate
 	heavy_weighted_pressure_plate
 	light_weighted_pressure_plate
+	polished_blackstone_pressure_plate
 	tripwire_hook
 	
-	spruce_pressure_plate
-	birch_pressure_plate
-	jungle_pressure_plate
-	dark_oak_pressure_plate
-	acacia_pressure_plate
-	warped_pressure_plate
-	crimson_pressure_plate
-	polished_blackstone_pressure_plate
-	
-	oak_door
-	spruce_door
-	acacia_door
-	birch_door
-	crimson_door
-	dark_oak_door
 	iron_door
-	jungle_door
-	warped_door
-	
-	oak_fence_gate
-	spruce_fence_gate
-	birch_fence_gate
-	jungle_fence_gate
-	dark_oak_fence_gate
-	acacia_fence_gate
-	warped_fence_gate
-	crimson_fence_gate
-	
-	oak_trapdoor
-	spruce_trapdoor
-	birch_trapdoor
-	jungle_trapdoor
-	dark_oak_trapdoor
-	acacia_trapdoor
-	warped_trapdoor
-	crimson_trapdoor
 	iron_trapdoor
 	
 	hopper
