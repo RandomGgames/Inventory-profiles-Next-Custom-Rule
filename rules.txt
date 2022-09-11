@@ -160,6 +160,31 @@
 	quartz
 	nether_quartz_ore
 	
+	chest
+	crafting_table
+	bookshelf
+	ender_chest
+	anvil
+	chipped_anvil
+	damaged_anvil
+	lectern
+	barrel
+	furnace
+	smoker
+	blast_furnace
+	enchanting_table
+	jukebox
+	cartography_table
+	smithing_table
+	loom
+	fletching_table
+	composter
+	grindstone
+	stonecutter
+	bell
+	lodestone
+	respawn_anchor
+	
 	oak_wood
 	oak_log
 	stripped_oak_wood
@@ -169,9 +194,6 @@
 	oak_slab
 	oak_fence
 	oak_sign
-	crafting_table
-	bookshelf
-	chest
 	oak_door
 	oak_fence_gate
 	oak_trapdoor
@@ -603,29 +625,6 @@
 	beacon
 	conduit
 	dragon_egg
-	
-	
-	ender_chest
-	anvil
-	chipped_anvil
-	damaged_anvil
-	lectern
-	barrel
-	furnace
-	smoker
-	blast_furnace
-	enchanting_table
-	jukebox
-	cartography_table
-	smithing_table
-	loom
-	fletching_table
-	composter
-	grindstone
-	stonecutter
-	bell
-	lodestone
-	respawn_anchor
 	
 	torch
 	scaffolding
