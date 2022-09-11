@@ -148,6 +148,10 @@
 	gold_ore
 	nether_gold_ore
 	deepslate_gold_ore
+	redstone_block
+	redstone
+	redstone_ore
+	deepslate_redstone_ore
 	lapis_block
 	lapis_lazuli
 	lapis_ore
@@ -840,10 +844,6 @@
 	
 	player_head
 	
-	redstone_block
-	redstone
-	redstone_ore
-	deepslate_redstone_ore
 	repeater
 	redstone_torch
 	comparator
