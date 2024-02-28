@@ -792,16 +792,6 @@
 	white_tulip
 	wither_rose
 	
-	hay_block
-	wheat
-	wheat_seeds
-	sugar_cane
-	nether_wart
-	bamboo
-	kelp
-	beetroot_seeds
-	cocoa_beans
-	
 	moss_block
 	moss_carpet
 	
@@ -881,18 +871,38 @@
 	activator_rail
 	minecart
 	
+	hay_block
+	wheat
+	wheat_seeds
+	
 	carrot
+	
 	baked_potato
 	potato
+	
 	beetroot
+	beetroot_seeds
+	
 	melon
 	melon_slice
 	melon_seeds
+	
 	jack_o_lantern
 	carved_pumpkin
 	pumpkin
 	pumpkin_seeds
+	
 	sweet_berries
+	
+	sugar_cane
+	
+	nether_wart
+	
+	bamboo
+	
+	kelp
+	
+	cocoa_beans
 	
 	magma_cream
 	dragon_breath
@@ -1079,10 +1089,11 @@
 	purple_shulker_box
 	shulker_box
 	
-	::custom_name
 	::enchantments_score(number_order = descending)
-	::durability (reverse = true)
-	::potion_effect
 	::nbt_comparator (reverse = true)
+	::potion_effect
+	
+	::custom_name
 	::creative_menu_group_index
 	::raw_id
+	::durability (reverse = true)
