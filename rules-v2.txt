@@ -1,88 +1,105 @@
 @default
 	elytra
-	netherite_helmet
-	netherite_chestplate
-	netherite_leggings
-	netherite_boots
-	diamond_helmet
-	diamond_chestplate
-	diamond_leggings
-	diamond_boots
-	iron_helmet
-	iron_chestplate
-	iron_leggings
-	iron_boots
-	chainmail_helmet
-	chainmail_chestplate
-	chainmail_leggings
-	chainmail_boots
-	golden_helmet
-	golden_chestplate
-	golden_leggings
-	golden_boots
-	leather_helmet
-	leather_chestplate
-	leather_leggings
-	leather_boots
-	turtle_helmet
 	
-	trident
 	netherite_sword
 	netherite_pickaxe
 	netherite_shovel
 	netherite_axe
 	netherite_hoe
+
+	netherite_helmet
+	netherite_chestplate
+	netherite_leggings
+	netherite_boots
+	
 	diamond_sword
 	diamond_pickaxe
 	diamond_shovel
 	diamond_axe
 	diamond_hoe
+	
+	diamond_helmet
+	diamond_chestplate
+	diamond_leggings
+	diamond_boots
+	
 	iron_sword
 	iron_pickaxe
 	iron_shovel
 	iron_axe
 	iron_hoe
+	
+	iron_helmet
+	iron_chestplate
+	iron_leggings
+	iron_boots
+	
 	stone_sword
 	stone_pickaxe
 	stone_shovel
 	stone_axe
 	stone_hoe
+	
+	chainmail_helmet
+	chainmail_chestplate
+	chainmail_leggings
+	chainmail_boots
+	
 	golden_sword
 	golden_pickaxe
 	golden_shovel
 	golden_axe
 	golden_hoe
+	
+	golden_helmet
+	golden_chestplate
+	golden_leggings
+	golden_boots
+	
+	leather_helmet
+	leather_chestplate
+	leather_leggings
+	leather_boots
+	
 	wooden_sword
 	wooden_pickaxe
 	wooden_shovel
 	wooden_axe
 	wooden_hoe
 	
-	shield
+	turtle_helmet
+	trident
 	totem_of_undying
-	firework_rocket
+	shield
 	bundle
 	bow
 	crossbow
-	
+	firework_rocket
+	compass
+	clock
+	lead
+	name_tag
+	spyglass
+	filled_map
+	map
+	shears
 	flint_and_steel
 	fishing_rod
 	carrot_on_a_stick
 	warped_fungus_on_a_stick
-	
 	experience_bottle
-	lead
-	map
-	compass
-	spyglass
-	clock
-	shears
-	name_tag
+	brush
 	
 	bucket
 	water_bucket
 	lava_bucket
 	milk_bucket
+	axolotl_bucket
+	tadpole_bucket
+	tropical_fish_bucket
+	cod_bucket
+	salmon_bucket
+	pufferfish_bucket
 	
 	enchanted_golden_apple
 	golden_apple
@@ -110,36 +127,41 @@
 	cod
 	tropical_fish
 	honey_bottle
-	glow_berries
 	cookie
-	dried_kelp
+	glow_berries
 	suspicious_stew
 	
 	netherite_block
 	ancient_debris
 	netherite_ingot
 	netherite_scrap
+	
 	diamond_block
 	diamond
 	diamond_ore
 	deepslate_diamond_ore
+	
 	emerald_block
 	emerald
 	emerald_ore
 	deepslate_emerald_ore
+	
 	iron_block
 	iron_ingot
 	iron_nugget
+	iron_bars
 	raw_iron_block
 	raw_iron
 	iron_ore
 	deepslate_iron_ore
+	
 	copper_block
 	copper_ingot
 	raw_copper_block
 	raw_copper
 	copper_ore
 	deepslate_copper_ore
+	
 	gold_block
 	gold_ingot
 	gold_nugget
@@ -148,30 +170,31 @@
 	gold_ore
 	nether_gold_ore
 	deepslate_gold_ore
-	redstone_block
-	redstone
-	redstone_ore
-	deepslate_redstone_ore
+	
 	lapis_block
 	lapis_lazuli
 	lapis_ore
 	deepslate_lapis_ore
+	
 	coal_block
 	coal
 	charcoal
 	coal_ore
 	deepslate_coal_ore
+	
 	quartz
 	nether_quartz_ore
 	
 	chest
 	crafting_table
+	brewing_stand
 	bookshelf
 	ender_chest
 	anvil
 	chipped_anvil
 	damaged_anvil
 	lectern
+	cauldron
 	barrel
 	furnace
 	smoker
@@ -189,146 +212,199 @@
 	lodestone
 	respawn_anchor
 	
+	iron_door
+	iron_trapdoor
+	
 	oak_wood
-	oak_log
 	stripped_oak_wood
+	oak_log
 	stripped_oak_log
 	oak_planks
 	oak_stairs
 	oak_slab
-	oak_fence
-	oak_sign
-	oak_door
-	oak_fence_gate
-	oak_trapdoor
-	oak_boat
-	oak_button
-	oak_pressure_plate
 	
 	spruce_wood
-	spruce_log
 	stripped_spruce_wood
+	spruce_log
 	stripped_spruce_log
 	spruce_planks
 	spruce_stairs
 	spruce_slab
-	spruce_fence
-	spruce_sign
-	spruce_boat
-	spruce_button
-	spruce_door
-	spruce_fence_gate
-	spruce_pressure_plate
-	spruce_trapdoor
 	
 	birch_wood
-	birch_log
 	stripped_birch_wood
+	birch_log
 	stripped_birch_log
 	birch_planks
 	birch_stairs
 	birch_slab
-	birch_fence
-	birch_sign
-	birch_boat
-	birch_button
-	birch_door
-	birch_fence_gate
-	birch_pressure_plate
-	birch_trapdoor
 	
 	jungle_wood
-	jungle_log
 	stripped_jungle_wood
+	jungle_log
 	stripped_jungle_log
 	jungle_planks
 	jungle_stairs
 	jungle_slab
-	jungle_fence
-	jungle_sign
-	jungle_boat
-	jungle_button
-	jungle_door
-	jungle_fence_gate
-	jungle_pressure_plate
-	jungle_trapdoor
 	
 	dark_oak_wood
-	dark_oak_log
-	dark_oak_planks
 	stripped_dark_oak_wood
+	dark_oak_log
 	stripped_dark_oak_log
+	dark_oak_planks
 	dark_oak_stairs
 	dark_oak_slab
-	dark_oak_fence
-	dark_oak_sign
-	dark_oak_boat
-	dark_oak_button
-	dark_oak_door
-	dark_oak_fence_gate
-	dark_oak_pressure_plate
-	dark_oak_trapdoor
 	
 	acacia_wood
-	acacia_log
 	stripped_acacia_wood
+	acacia_log
 	stripped_acacia_log
 	acacia_planks
 	acacia_stairs
 	acacia_slab
-	acacia_fence
-	acacia_sign
-	acacia_boat
-	acacia_button
-	acacia_door
-	acacia_fence_gate
-	acacia_pressure_plate
-	acacia_trapdoor
 	
 	mangrove_wood
-	mangrove_log
 	stripped_mangrove_wood
+	mangrove_log
 	stripped_mangrove_log
 	mangrove_planks
 	mangrove_stairs
 	mangrove_slab
-	mangrove_fence
-	mangrove_sign
-	mangrove_boat
 	
-	crimson_wood
+	cherry_wood
+	stripped_cherry_wood
+	cherry_log
+	stripped_cherry_log
+	cherry_planks
+	cherry_stairs
+	cherry_slab
+	
+	bamboo_mosaic
+	bamboo_mosaic_slab
+	bamboo_mosaic_stairs
+	bamboo_planks
+	bamboo_stairs
+	bamboo_slab
+	stripped_bamboo_block
+	bamboo_block
+	
+	crimson_hyphae
+	stripped_crimson_hyphae
 	crimson_stem
-	stripped_crimson_wood
 	stripped_crimson_stem
 	crimson_planks
 	crimson_stairs
 	crimson_slab
-	crimson_fence
-	crimson_sign
-	crimson_button
-	crimson_door
-	crimson_fence_gate
-	crimson_pressure_plate
-	crimson_trapdoor
 	
+	warped_hyphae
+	stripped_warped_hyphae
 	warped_stem
+	stripped_warped_stem
 	warped_planks
 	warped_stairs
 	warped_slab
-	warped_wood
-	stripped_warped_stem
-	stripped_warped_wood
-	warped_fence
+	
+	oak_sign
+	oak_door
+	oak_trapdoor
+	oak_hanging_sign
+	oak_fence
+	oak_fence_gate
+	
+	spruce_sign
+	spruce_door
+	spruce_trapdoor
+	spruce_hanging_sign
+	spruce_fence
+	spruce_fence_gate
+	
+	birch_sign
+	birch_door
+	birch_trapdoor
+	birch_hanging_sign
+	birch_fence
+	birch_fence_gate
+	
+	jungle_sign
+	jungle_door
+	jungle_trapdoor
+	jungle_hanging_sign
+	jungle_fence
+	jungle_fence_gate
+	
+	dark_oak_sign
+	dark_oak_door
+	dark_oak_trapdoor
+	dark_oak_hanging_sign
+	dark_oak_fence
+	dark_oak_fence_gate
+	
+	acacia_sign
+	acacia_door
+	acacia_trapdoor
+	acacia_hanging_sign
+	acacia_fence
+	acacia_fence_gate
+	
+	mangrove_sign
+	mangrove_door
+	mangrove_trapdoor
+	mangrove_hanging_sign
+	mangrove_fence
+	mangrove_fence_gate
+	
+	cherry_sign
+	cherry_door
+	cherry_trapdoor
+	cherry_hanging_sign
+	cherry_fence
+	cherry_fence_gate
+	
+	bamboo_sign
+	bamboo_hanging_sign
+	bamboo_door
+	bamboo_trapdoor
+	bamboo_fence
+	bamboo_fence_gate
+	
+	crimson_sign
+	crimson_hanging_sign
+	crimson_door
+	crimson_trapdoor
+	crimson_fence
+	crimson_fence_gate
+	
 	warped_sign
-	warped_button
+	warped_hanging_sign
 	warped_door
-	warped_fence_gate
-	warped_pressure_plate
 	warped_trapdoor
+	warped_fence
+	warped_fence_gate
+	
+	oak_sapling
+	spruce_sapling
+	birch_sapling
+	jungle_sapling
+	dark_oak_sapling
+	acacia_sapling
+	mangrove_propagule
+	cherry_sapling
+	
+	oak_leaves
+	spruce_leaves
+	birch_leaves
+	jungle_leaves
+	dark_oak_leaves
+	acacia_leaves
+	mangrove_leaves
+	cherry_leaves
+	azalea_leaves
+	flowering_azalea_leaves
 	
 	stone
 	stone_stairs
 	stone_slab
+	
 	smooth_stone
 	smooth_stone_slab
 	
@@ -360,6 +436,7 @@
 	cobblestone_stairs
 	cobblestone_slab
 	cobblestone_wall
+	
 	mossy_cobblestone
 	mossy_cobblestone_slab
 	mossy_cobblestone_stairs
@@ -371,6 +448,7 @@
 	stone_brick_wall
 	chiseled_stone_bricks
 	cracked_stone_bricks
+	
 	mossy_stone_bricks
 	mossy_stone_brick_stairs
 	mossy_stone_brick_slab
@@ -396,22 +474,52 @@
 	cobbled_deepslate_slab
 	cobbled_deepslate_wall
 	deepslate
+	reinforced_deepslate
 	
 	bricks
-	brick_stairs
 	brick_slab
+	brick_stairs
+	brick_wall
 	
-	sandstone
-	sandstone_stairs
-	sandstone_slab
-	sandstone_wall
-	chiseled_red_sandstone
+	mud
+	mud_brick_slab
+	mud_brick_stairs
+	mud_brick_wall
+	mud_bricks
+	packed_mud
+	
+	netherrack
+	magma_block
+	glowstone
+	
+	nether_brick
+	nether_bricks
+	nether_brick_stairs
+	nether_brick_slab
+	nether_brick_wall
+	nether_brick_fence
+	chiseled_nether_bricks
+	cracked_nether_bricks
+	
+	red_nether_bricks
+	red_nether_brick_stairs
+	red_nether_brick_slab
+	red_nether_brick_wall
+	
 	chiseled_sandstone
-	cut_red_sandstone
-	cut_red_sandstone_slab
 	cut_sandstone
 	cut_sandstone_slab
-	red_sand
+	sandstone
+	sandstone_slab
+	sandstone_stairs
+	sandstone_wall
+	smooth_sandstone
+	smooth_sandstone_slab
+	smooth_sandstone_stairs
+
+	chiseled_red_sandstone
+	cut_red_sandstone
+	cut_red_sandstone_slab
 	red_sandstone
 	red_sandstone_slab
 	red_sandstone_stairs
@@ -419,17 +527,19 @@
 	smooth_red_sandstone
 	smooth_red_sandstone_slab
 	smooth_red_sandstone_stairs
-	smooth_sandstone
-	smooth_sandstone_slab
-	smooth_sandstone_stairs
 	
 	grass_block
 	dirt
 	rooted_dirt
 	coarse_dirt
+	mangrove_roots
+	muddy_mangrove_roots
 	podzol
 	mycelium
 	sand
+	red_sand
+	suspicious_sand
+	suspicious_gravel
 	gravel
 	clay
 	
@@ -437,22 +547,31 @@
 	prismarine_bricks
 	prismarine_brick_stairs
 	prismarine_brick_slab
-	
 	dark_prismarine
 	dark_prismarine_stairs
 	dark_prismarine_slab
-	
 	prismarine
 	prismarine_stairs
 	prismarine_slab
 	prismarine_wall
 	
+	sponge
+	wet_sponge
+	
 	blue_ice
 	packed_ice
 	ice
+	
 	snow_block
 	snow
 	powder_snow_bucket
+	
+	creeper_banner_pattern
+	flower_banner_pattern
+	globe_banner_pattern
+	mojang_banner_pattern
+	piglin_banner_pattern
+	skull_banner_pattern
 	
 	white_wool
 	light_gray_wool
@@ -471,6 +590,7 @@
 	magenta_wool
 	purple_wool
 	
+	lightning_rod
 	waxed_copper_block
 	waxed_cut_copper
 	cut_copper
@@ -505,6 +625,8 @@
 	
 	glass
 	glass_pane
+	tinted_glass
+	
 	white_stained_glass
 	light_gray_stained_glass
 	gray_stained_glass
@@ -522,7 +644,6 @@
 	magenta_stained_glass
 	purple_stained_glass
 	
-	tinted_glass
 	white_stained_glass_pane
 	light_gray_stained_glass_pane
 	gray_stained_glass_pane
@@ -547,6 +668,7 @@
 	end_stone_brick_stairs
 	end_stone_brick_wall
 	end_stone_bricks
+	
 	purpur_block
 	purpur_pillar
 	purpur_slab
@@ -626,25 +748,66 @@
 	purple_concrete_powder
 	
 	wither_skeleton_skull
+	
 	beacon
 	conduit
 	dragon_egg
 	
 	torch
 	scaffolding
-	
 	campfire
 	cobweb
 	chain
 	lantern
 	ladder
-	iron_bars
+	
+	tide_armor_trim_smithing_template
+	vex_armor_trim_smithing_template
+	ward_armor_trim_smithing_template
+	wayfinder_armor_trim_smithing_template
+	wild_armor_trim_smithing_template
+	coast_armor_trim_smithing_template
+	dune_armor_trim_smithing_template
+	eye_armor_trim_smithing_template
+	host_armor_trim_smithing_template
+	netherite_upgrade_smithing_template
+	raiser_armor_trim_smithing_template
+	rib_armor_trim_smithing_template
+	sentry_armor_trim_smithing_template
+	silence_armor_trim_smithing_template
+	snout_armor_trim_smithing_template
+	shaper_armor_trim_smithing_template
+	spire_armor_trim_smithing_template
+	
 	item_frame
 	glow_item_frame
 	painting
+	
 	beehive
 	bee_nest
+	
 	flower_pot
+	decorated_pot
+	angler_pottery_sherd
+	archer_pottery_sherd
+	arms_up_pottery_sherd
+	blade_pottery_sherd
+	brewer_pottery_sherd
+	burn_pottery_sherd
+	danger_pottery_sherd
+	explorer_pottery_sherd
+	friend_pottery_sherd
+	heart_pottery_sherd
+	heartbreak_pottery_sherd
+	howl_pottery_sherd
+	miner_pottery_sherd
+	mourner_pottery_sherd
+	plenty_pottery_sherd
+	prize_pottery_sherd
+	sheaf_pottery_sherd
+	shelter_pottery_sherd
+	skull_pottery_sherd
+	snort_pottery_sherd
 	
 	soul_torch
 	soul_lantern
@@ -728,7 +891,7 @@
 	small_amethyst_bud
 	calcite
 	tuff
-	
+	dripstone_block
 	pointed_dripstone
 	
 	tube_coral_block
@@ -762,17 +925,19 @@
 	dead_bubble_coral
 	dead_bubble_coral_fan
 	
-	skeleton_skull
-	zombie_head
 	creeper_head
 	dragon_head
+	piglin_head
+	player_head
+	skeleton_skull
+	zombie_head
 	
-	oak_sapling
-	spruce_sapling
-	birch_sapling
-	jungle_sapling
-	dark_oak_sapling
-	acacia_sapling
+	sugar_cane
+	bamboo
+	kelp
+	dried_kelp
+	dried_kelp_block
+	cactus
 	
 	allium
 	azure_bluet
@@ -791,6 +956,10 @@
 	sunflower
 	white_tulip
 	wither_rose
+	pink_petals
+	
+	brown_mushroom
+	red_mushroom
 	
 	moss_block
 	moss_carpet
@@ -802,62 +971,88 @@
 	small_dripleaf
 	
 	spore_blossom
-	azalea_leaves
-	flowering_azalea_leaves
 	
 	brown_mushroom_block
-	brown_mushroom
+	red_mushroom_block
+	mushroom_stem
 	
-	cactus
 	crimson_fungus
 	crimson_roots
+	
 	dead_bush
-	dried_kelp_block
-	fern
+	
 	grass
-	hanging_roots
-	large_fern
-	lily_pad
-	nether_sprouts
-	red_mushroom
-	red_mushroom_block
-	sea_pickle
-	seagrass
-	sugar_cane
+	short_grass
 	tall_grass
-	twisting_vines
-	vine
+	fern
+	large_fern
+	seagrass
+	tall_seagrass
+	
 	glow_lichen
+	vine
+	lily_pad
+	sea_pickle
+	
+	hanging_roots
+	torchflower
+	
 	warped_fungus
 	warped_roots
 	weeping_vines
+	twisting_vines
+	nether_sprouts
 	
-	player_head
+	redstone_block
+	redstone
+	redstone_ore
+	deepslate_redstone_ore
 	
 	repeater
 	redstone_torch
 	comparator
 	
-	observer
-	daylight_detector
-	sculk_sensor
-	target
-	
 	lever
 	stone_button
-	polished_blackstone_button
 	stone_pressure_plate
-	heavy_weighted_pressure_plate
+	oak_button
+	oak_pressure_plate
+	spruce_button
+	spruce_pressure_plate
+	birch_button
+	birch_pressure_plate
+	jungle_button
+	jungle_pressure_plate
+	dark_oak_button
+	dark_oak_pressure_plate
+	acacia_button
+	acacia_pressure_plate
+	mangrove_button
+	mangrove_pressure_plate
+	cherry_button
+	cherry_pressure_plate
+	bamboo_button
+	bamboo_pressure_plate
+	crimson_button
+	crimson_pressure_plate
+	warped_button
+	warped_pressure_plate
 	light_weighted_pressure_plate
+	heavy_weighted_pressure_plate
+	polished_blackstone_button
 	polished_blackstone_pressure_plate
-	tripwire_hook
-	
-	iron_door
-	iron_trapdoor
 	
 	hopper
 	piston
 	sticky_piston
+	observer
+	target
+	
+	daylight_detector
+	sculk_sensor
+	calibrated_sculk_sensor
+	tripwire_hook
+	
 	dispenser
 	dropper
 	redstone_lamp
@@ -869,39 +1064,54 @@
 	powered_rail
 	detector_rail
 	activator_rail
+	
 	minecart
+	tnt_minecart
+	furnace_minecart
+	hopper_minecart
+	chest_minecart
+	
+	oak_boat
+	oak_chest_boat
+	spruce_boat
+	spruce_chest_boat
+	birch_boat
+	birch_chest_boat
+	jungle_boat
+	jungle_chest_boat
+	dark_oak_boat
+	dark_oak_chest_boat
+	acacia_boat
+	acacia_chest_boat
+	cherry_boat
+	cherry_chest_boat
+	bamboo_raft
+	bamboo_chest_raft
+	mangrove_boat
+	mangrove_chest_boat
+	
 	
 	hay_block
 	wheat
 	wheat_seeds
-	
+	pitcher_plant
+	pitcher_pod
+	torchflower_seeds
 	carrot
-	
 	baked_potato
 	potato
-	
+	poisonous_potato
 	beetroot
 	beetroot_seeds
-	
 	melon
 	melon_slice
 	melon_seeds
-	
 	jack_o_lantern
 	carved_pumpkin
 	pumpkin
 	pumpkin_seeds
-	
 	sweet_berries
-	
-	sugar_cane
-	
 	nether_wart
-	
-	bamboo
-	
-	kelp
-	
 	cocoa_beans
 	
 	magma_cream
@@ -915,16 +1125,19 @@
 	rabbit_foot
 	splash_potion
 	
-	netherrack
-	glowstone
-	nether_bricks
-	nether_brick_fence
-	nether_brick
+	ochre_froglight
+	pearlescent_froglight
+	verdant_froglight
+	
 	obsidian
 	crying_obsidian
-	shroomlight
+	
 	soul_sand
 	soul_soil
+	
+	basalt
+	smooth_basalt
+	polished_basalt
 	
 	gilded_blackstone
 	polished_blackstone_bricks
@@ -933,39 +1146,19 @@
 	polished_blackstone_brick_wall
 	cracked_polished_blackstone_bricks
 	
-	basalt
-	smooth_basalt
-	polished_basalt
-	
 	polished_blackstone
 	polished_blackstone_stairs
 	polished_blackstone_slab
 	polished_blackstone_wall
 	chiseled_polished_blackstone
-	
 	blackstone
 	blackstone_stairs
 	blackstone_slab
 	blackstone_wall
 	
-	crimson_stem
-	crimson_hyphae
-	crimson_planks
-	crimson_stairs
-	crimson_slab
-	stripped_crimson_stem
-	stripped_crimson_hyphae
+	shroomlight
 	crimson_nylium
 	nether_wart_block
-	
-	warped_stem
-	warped_slab
-	stripped_warped_hyphae
-	stripped_warped_stem
-	warped_planks
-	warped_hyphae
-	warped_stem
-	warped_stairs
 	warped_nylium
 	warped_wart_block
 	
@@ -975,7 +1168,6 @@
 	quartz_bricks
 	quartz_pillar
 	chiseled_quartz_block
-	
 	smooth_quartz
 	smooth_quartz_stairs
 	smooth_quartz_slab
@@ -999,18 +1191,15 @@
 	snowball
 	sugar
 	turtle_egg
-	
 	heart_of_the_sea
 	nautilus_shell
 	prismarine_shard
 	prismarine_crystals
-	
 	diamond_horse_armor
 	golden_horse_armor
 	iron_horse_armor
 	leather_horse_armor
 	saddle
-	
 	gunpowder
 	bone_block
 	bone
@@ -1025,7 +1214,6 @@
 	ghast_tear
 	phantom_membrane
 	shulker_shell
-	
 	leather
 	rabbit_hide
 	ink_sac
@@ -1033,12 +1221,6 @@
 	feather
 	egg
 	scute
-	
-	cod_bucket
-	salmon_bucket
-	tropical_fish_bucket
-	pufferfish_bucket
-	axolotl_bucket
 	
 	white_dye
 	light_gray_dye
@@ -1057,15 +1239,21 @@
 	magenta_dye
 	purple_dye
 	
+	disc_fragment_5
+	echo_shard
+	
 	music_disc_11
 	music_disc_13
+	music_disc_5
 	music_disc_blocks
 	music_disc_cat
 	music_disc_chirp
 	music_disc_far
 	music_disc_mall
 	music_disc_mellohi
+	music_disc_otherside
 	music_disc_pigstep
+	music_disc_relic
 	music_disc_stal
 	music_disc_strad
 	music_disc_wait
@@ -1089,10 +1277,29 @@
 	purple_shulker_box
 	shulker_box
 	
-	::enchantments_score(number_order = descending)
-	::nbt_comparator (reverse = true)
-	::potion_effect
+	sculk
+	sculk_catalyst
+	sculk_shrieker
+	sculk_vein
 	
+	arrow
+	spectral_arrow
+	tipped_arrow
+	
+	recovery_compass
+	rotten_flesh
+	sniffer_egg
+	spider_eye
+	
+	chiseled_bookshelf
+	
+	frogspawn
+	goat_horn
+	honey_block
+	honeycomb_block
+	
+	::enchantments_score(number_order = descending)
+	::potion_effect
 	::custom_name
 	::creative_menu_group_index
 	::raw_id
