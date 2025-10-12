@@ -1,6 +1,7 @@
 @default
 	elytra
-	
+	mace
+
 	netherite_sword
 	netherite_pickaxe
 	netherite_shovel
@@ -33,6 +34,17 @@
 	iron_chestplate
 	iron_leggings
 	iron_boots
+	
+	copper_sword
+	copper_pickaxe
+	copper_shovel
+	copper_axe
+	copper_hoe
+	
+	copper_helmet
+	copper_chestplate
+	copper_leggings
+	copper_boots
 	
 	stone_sword
 	stone_pickaxe
@@ -72,6 +84,22 @@
 	totem_of_undying
 	shield
 	bundle
+	black_bundle
+	blue_bundle
+	brown_bundle
+	cyan_bundle
+	gray_bundle
+	green_bundle
+	light_blue_bundle
+	light_gray_bundle
+	magenta_bundle
+	orange_bundle
+	pink_bundle
+	purple_bundle
+	red_bundle
+	white_bundle
+	yellow_bundle
+	lime_bundle
 	bow
 	crossbow
 	firework_rocket
@@ -254,6 +282,15 @@
 	dark_oak_planks
 	dark_oak_stairs
 	dark_oak_slab
+
+	pale_oak_wood
+	stripped_pale_oak_wood
+	pale_oak_log
+	stripped_pale_oak_log
+	pale_oak_planks
+	pale_oak_stairs
+	pale_oak_slab
+	creaking_heart
 	
 	acacia_wood
 	stripped_acacia_wood
@@ -339,6 +376,13 @@
 	dark_oak_fence
 	dark_oak_fence_gate
 	
+	pale_oak_sign
+	pale_oak_door
+	pale_oak_trapdoor
+	pale_oak_hanging_sign
+	pale_oak_fence
+	pale_oak_fence_gate
+	
 	acacia_sign
 	acacia_door
 	acacia_trapdoor
@@ -386,6 +430,7 @@
 	birch_sapling
 	jungle_sapling
 	dark_oak_sapling
+	pale_oak_sapling
 	acacia_sapling
 	mangrove_propagule
 	cherry_sapling
@@ -395,6 +440,7 @@
 	birch_leaves
 	jungle_leaves
 	dark_oak_leaves
+	pale_oak_leaves
 	acacia_leaves
 	mangrove_leaves
 	cherry_leaves
@@ -438,8 +484,8 @@
 	cobblestone_wall
 	
 	mossy_cobblestone
-	mossy_cobblestone_slab
 	mossy_cobblestone_stairs
+	mossy_cobblestone_slab
 	mossy_cobblestone_wall
 	
 	stone_bricks
@@ -449,6 +495,27 @@
 	chiseled_stone_bricks
 	cracked_stone_bricks
 	
+	tuff
+	tuff_slab
+	tuff_stairs
+	tuff_wall
+	tuff_bricks
+	tuff_brick_stairs
+	tuff_brick_slab
+	tuff_brick_wall
+	polished_tuff
+	polished_tuff_slab
+	polished_tuff_stairs
+	polished_tuff_wall
+	chiseled_tuff
+	chiseled_tuff_bricks
+	
+	resin_block
+	resin_brick_slab
+	resin_brick_stairs
+	resin_brick_wall
+	resin_bricks
+
 	mossy_stone_bricks
 	mossy_stone_brick_stairs
 	mossy_stone_brick_slab
@@ -566,9 +633,13 @@
 	snow
 	powder_snow_bucket
 	
+	bordure_indented_banner_pattern
 	creeper_banner_pattern
+	field_masoned_banner_pattern
+	flow_banner_pattern
 	flower_banner_pattern
 	globe_banner_pattern
+	guster_banner_pattern
 	mojang_banner_pattern
 	piglin_banner_pattern
 	skull_banner_pattern
@@ -761,23 +832,25 @@
 	lantern
 	ladder
 	
-	tide_armor_trim_smithing_template
-	vex_armor_trim_smithing_template
-	ward_armor_trim_smithing_template
-	wayfinder_armor_trim_smithing_template
-	wild_armor_trim_smithing_template
+	bolt_armor_trim_smithing_template
 	coast_armor_trim_smithing_template
 	dune_armor_trim_smithing_template
 	eye_armor_trim_smithing_template
+	flow_armor_trim_smithing_template
 	host_armor_trim_smithing_template
 	netherite_upgrade_smithing_template
 	raiser_armor_trim_smithing_template
 	rib_armor_trim_smithing_template
 	sentry_armor_trim_smithing_template
+	shaper_armor_trim_smithing_template
 	silence_armor_trim_smithing_template
 	snout_armor_trim_smithing_template
-	shaper_armor_trim_smithing_template
 	spire_armor_trim_smithing_template
+	tide_armor_trim_smithing_template
+	vex_armor_trim_smithing_template
+	ward_armor_trim_smithing_template
+	wayfinder_armor_trim_smithing_template
+	wild_armor_trim_smithing_template
 	
 	item_frame
 	glow_item_frame
@@ -788,6 +861,7 @@
 	
 	flower_pot
 	decorated_pot
+	
 	angler_pottery_sherd
 	archer_pottery_sherd
 	arms_up_pottery_sherd
@@ -796,7 +870,9 @@
 	burn_pottery_sherd
 	danger_pottery_sherd
 	explorer_pottery_sherd
+	flow_pottery_sherd
 	friend_pottery_sherd
+	guster_pottery_sherd
 	heart_pottery_sherd
 	heartbreak_pottery_sherd
 	howl_pottery_sherd
@@ -804,6 +880,7 @@
 	mourner_pottery_sherd
 	plenty_pottery_sherd
 	prize_pottery_sherd
+	scrape_pottery_sherd
 	sheaf_pottery_sherd
 	shelter_pottery_sherd
 	skull_pottery_sherd
@@ -890,7 +967,6 @@
 	medium_amethyst_bud
 	small_amethyst_bud
 	calcite
-	tuff
 	dripstone_block
 	pointed_dripstone
 	
@@ -938,6 +1014,7 @@
 	dried_kelp
 	dried_kelp_block
 	cactus
+	cactus_flower
 	
 	allium
 	azure_bluet
@@ -957,12 +1034,20 @@
 	white_tulip
 	wither_rose
 	pink_petals
+	open_eyeblossom
+	closed_eyeblossom
+	wildflowers
+	leaf_litter
+	firefly_bush
 	
 	brown_mushroom
 	red_mushroom
 	
 	moss_block
 	moss_carpet
+	pale_moss_block
+	pale_moss_carpet
+	pale_hanging_moss
 	
 	flowering_azalea
 	azalea
@@ -980,8 +1065,11 @@
 	crimson_roots
 	
 	dead_bush
+	short_dry_grass
+	tall_dry_grass
 	
 	grass
+	bush
 	short_grass
 	tall_grass
 	fern
@@ -1025,6 +1113,8 @@
 	jungle_pressure_plate
 	dark_oak_button
 	dark_oak_pressure_plate
+	pale_oak_button
+	pale_oak_pressure_plate
 	acacia_button
 	acacia_pressure_plate
 	mangrove_button
@@ -1047,6 +1137,7 @@
 	sticky_piston
 	observer
 	target
+	crafter
 	
 	daylight_detector
 	sculk_sensor
@@ -1056,6 +1147,14 @@
 	dispenser
 	dropper
 	redstone_lamp
+	waxed_copper_bulb
+	copper_bulb
+	waxed_weathered_copper_bulb
+	weathered_copper_bulb
+	waxed_exposed_copper_bulb
+	exposed_copper_bulb
+	waxed_oxidized_copper_bulb
+	oxidized_copper_bulb
 	tnt
 	note_block
 	trapped_chest
@@ -1081,6 +1180,8 @@
 	jungle_chest_boat
 	dark_oak_boat
 	dark_oak_chest_boat
+	pale_oak_boat
+	pale_oak_chest_boat
 	acacia_boat
 	acacia_chest_boat
 	cherry_boat
@@ -1121,6 +1222,7 @@
 	glistering_melon_slice
 	lingering_potion
 	potion
+	ominous_bottle
 	pufferfish
 	rabbit_foot
 	splash_potion
@@ -1172,7 +1274,11 @@
 	smooth_quartz_stairs
 	smooth_quartz_slab
 	
+	heavy_core
 	nether_star
+	ominous_trial_key
+	trial_key
+	resin_clump
 	honeycomb
 	amethyst_shard
 	written_book
@@ -1183,6 +1289,7 @@
 	flint
 	bowl
 	brick
+	resin_brick
 	clay_ball
 	enchanted_book
 	fire_charge
@@ -1199,6 +1306,7 @@
 	golden_horse_armor
 	iron_horse_armor
 	leather_horse_armor
+	wolf_armor
 	saddle
 	gunpowder
 	bone_block
@@ -1211,6 +1319,8 @@
 	ender_pearl
 	ender_eye
 	blaze_rod
+	breeze_rod
+	wind_charge
 	ghast_tear
 	phantom_membrane
 	shulker_shell
@@ -1220,7 +1330,10 @@
 	glow_ink_sac
 	feather
 	egg
-	scute
+	blue_egg
+	brown_egg
+	turtle_scute
+	armadillo_scute
 	
 	white_dye
 	light_gray_dye
@@ -1248,11 +1361,14 @@
 	music_disc_blocks
 	music_disc_cat
 	music_disc_chirp
+	music_disc_creator
+	music_disc_creator_music_box
 	music_disc_far
 	music_disc_mall
 	music_disc_mellohi
 	music_disc_otherside
 	music_disc_pigstep
+	music_disc_precipice
 	music_disc_relic
 	music_disc_stal
 	music_disc_strad
