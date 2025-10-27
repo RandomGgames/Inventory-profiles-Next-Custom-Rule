@@ -1,0 +1,5 @@
+2025-10-27 03:21:30.210 INFO [<module>]: Starting operation...
+2025-10-27 03:21:30.210 ERROR [read_text_file_lines]: Error reading Item IDs 1.21.9-1.21.10.txt: [Errno 2] No such file or directory: 'Item IDs 1.21.9-1.21.10.txt'
+2025-10-27 03:21:30.211 INFO [read_text_file_lines]: Successfully read rules-v2.txt
+2025-10-27 03:21:30.211 DEBUG [main]: missing_ids=[]
+2025-10-27 03:21:30.211 DEBUG [<module>]: Completed operation in 0.0013s.
